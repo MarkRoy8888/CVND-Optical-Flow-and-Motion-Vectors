@@ -1,1 +1,1 @@
-# cvnd-Optical-Flow-and-Motion-Vectors
+# CVND-Optical-Flow-and-Motion-Vectors
